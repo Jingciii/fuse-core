@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Jingci Wang
 #subtitle:
-subtitle: Frontend Developer
+subtitle: A student in Northeastern University exploring the world of Data Science
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -28,7 +28,7 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://tsjensen.github.io/fuse-core/
+url: https://imjingci.about.me
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
@@ -65,8 +65,8 @@ links:
       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+      show: true
+      href: https://www.linkedin.com/in/jingci-wang-613b31136/
       icon: fab fa-linkedin
   - googleplus:
       name: Google+
@@ -76,12 +76,12 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/JING_CIII
       icon: fab fa-twitter
   - weibo:
       name: 微博
       show: true
-      href: https://weibo.com/YOUR_WEIBO_USERNAME
+      href: https://www.weibo.com/2438915232/profile?topnav=1&wvr=6&is_all=1
       icon: fab fa-weibo
   - vine:
       name: Vine
@@ -90,18 +90,18 @@ links:
       icon: fab fa-vine
   - facebook:
       name: Facebook
-      show: false
-      href: https://facebook.com/YOUR_FB_USERNAME
+      show: true
+      href: https://www.facebook.com/jingci.wang.39
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      show: true
+      href: https://www.instagram.com/jingci19/
       icon: fab fa-instagram
   - flickr:
       name: Flickr
@@ -126,7 +126,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/Jingciii
       icon: fab fa-github
   - codepen:
       name: CodePen
@@ -155,17 +155,17 @@ links:
       icon: fab fa-tumblr
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:imjingci@gmail.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
